@@ -13,15 +13,15 @@
 ```Python
 import carlos as cr
 
-registro = { 'Nombres' : 'Carlos Rondan poma'
-             'Correo' : 'carlos.rondan.p@uni.pe'
-             'Linkedin' : 'carlosrondanp'
-             'Teléfono': 988811993
+registro = { 'Rama estudiantil' : 'American Society for Quality UNI'
+             'Dirección' : 'Investigación, Desarrollo e Innovación'
+             'Correo' : 'asquni.idi@gmail.com'
+             'linkedin': '/company/asq-uni'
 }
 
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me encanta conocer a nuevas personas</b> así que, si deseas <b>saludar, estaré contento de conocerte!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Excelencia a través de la calidad </b>  :)</em>
 
 ---
 
