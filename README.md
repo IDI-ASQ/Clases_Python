@@ -13,7 +13,7 @@
 ```Python
 import carlos as cr
 
-registro = { 'Rama estudiantil' : 'American Society for Quality UNI'
+registro = { 'Rama estudiantil' : 'ASQ UNI Lima, Perú Student Branch'
              'Dirección' : 'Investigación, Desarrollo e Innovación'
              'Correo' : 'asquni.idi@gmail.com'
              'linkedin': '/company/asq-uni'
