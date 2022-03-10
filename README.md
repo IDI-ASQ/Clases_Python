@@ -25,4 +25,4 @@ registro = { 'Rama estudiantil' : 'ASQ UNI Lima, Perú Student Branch'
 
 ---
 
-⭐️ De [@carlosrondanp](https://github.com/carlosrondanp)
+⭐️ De [@asquni](https://github.com/IDI-ASQ)
