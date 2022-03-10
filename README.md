@@ -11,7 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco acerca de mi...  
 
 ```Python
-import carlos as cr
+import asq
 
 registro = { 'Rama estudiantil' : 'ASQ UNI Lima, Perú Student Branch'
              'Dirección' : 'Investigación, Desarrollo e Innovación'
