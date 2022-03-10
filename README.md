@@ -1,6 +1,6 @@
 <h2> Hola, soy ASQ UNI! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Rama estudiantil de la <a href="https://www.uni.edu.pe">Universidad Nacional de Ingeniería</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Diirección de IDI de  <a href="https://www.facebook.com/ASQUNI.LIMAPERU">ASQ </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Rama estudiantil de la <a href="https://www.uni.edu.pe">Universidad Nacional de Ingeniería</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Dirección de Investigación, desarrollo e innovación de  <a href="https://www.facebook.com/ASQUNI.LIMAPERU">ASQ </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: CarlosRondan](https://img.shields.io/badge/-CarlosRondan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosrondanp/)](https://www.linkedin.com/in/carlosrondanp/)
